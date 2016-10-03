@@ -1,0 +1,36 @@
+D:\Visual Studio Assignments\InventoryAPP\InventoryAPP\bin\InventoryAPP.dll.config
+D:\Visual Studio Assignments\InventoryAPP\InventoryAPP\bin\InventoryAPP.dll
+D:\Visual Studio Assignments\InventoryAPP\InventoryAPP\bin\InventoryAPP.pdb
+D:\Visual Studio Assignments\InventoryAPP\InventoryAPP\bin\EntityFramework.dll
+D:\Visual Studio Assignments\InventoryAPP\InventoryAPP\bin\EntityFramework.SqlServer.dll
+D:\Visual Studio Assignments\InventoryAPP\InventoryAPP\bin\Newtonsoft.Json.dll
+D:\Visual Studio Assignments\InventoryAPP\InventoryAPP\bin\System.Net.Http.Formatting.dll
+D:\Visual Studio Assignments\InventoryAPP\InventoryAPP\bin\System.Web.Http.dll
+D:\Visual Studio Assignments\InventoryAPP\InventoryAPP\bin\System.Web.Http.WebHost.dll
+D:\Visual Studio Assignments\InventoryAPP\InventoryAPP\bin\EntityFramework.xml
+D:\Visual Studio Assignments\InventoryAPP\InventoryAPP\bin\EntityFramework.SqlServer.xml
+D:\Visual Studio Assignments\InventoryAPP\InventoryAPP\bin\Newtonsoft.Json.xml
+D:\Visual Studio Assignments\InventoryAPP\InventoryAPP\bin\System.Net.Http.Formatting.xml
+D:\Visual Studio Assignments\InventoryAPP\InventoryAPP\bin\System.Web.Http.xml
+D:\Visual Studio Assignments\InventoryAPP\InventoryAPP\bin\System.Web.Http.WebHost.xml
+D:\Visual Studio Assignments\InventoryAPP\InventoryAPP\obj\Debug\InventoryAPP.dll
+D:\Visual Studio Assignments\InventoryAPP\InventoryAPP\obj\Debug\InventoryAPP.pdb
+D:\Visual Studio Assignments\InventoryAPP\InventoryAPP\obj\Debug\InventoryAPP.csprojResolveAssemblyReference.cache
+C:\Users\Sonal Verma\Desktop\inventoryy\InventoryAppServices\InventoryAPP\InventoryAPP\obj\Debug\InventoryAPP.csprojResolveAssemblyReference.cache
+C:\Users\Sonal Verma\Desktop\inventoryy\InventoryAppServices\InventoryAPP\InventoryAPP\obj\Debug\InventoryAPP.dll
+C:\Users\Sonal Verma\Desktop\inventoryy\InventoryAppServices\InventoryAPP\InventoryAPP\bin\InventoryAPP.dll.config
+C:\Users\Sonal Verma\Desktop\inventoryy\InventoryAppServices\InventoryAPP\InventoryAPP\bin\InventoryAPP.dll
+C:\Users\Sonal Verma\Desktop\inventoryy\InventoryAppServices\InventoryAPP\InventoryAPP\bin\InventoryAPP.pdb
+C:\Users\Sonal Verma\Desktop\inventoryy\InventoryAppServices\InventoryAPP\InventoryAPP\bin\EntityFramework.dll
+C:\Users\Sonal Verma\Desktop\inventoryy\InventoryAppServices\InventoryAPP\InventoryAPP\bin\EntityFramework.SqlServer.dll
+C:\Users\Sonal Verma\Desktop\inventoryy\InventoryAppServices\InventoryAPP\InventoryAPP\bin\Newtonsoft.Json.dll
+C:\Users\Sonal Verma\Desktop\inventoryy\InventoryAppServices\InventoryAPP\InventoryAPP\bin\System.Net.Http.Formatting.dll
+C:\Users\Sonal Verma\Desktop\inventoryy\InventoryAppServices\InventoryAPP\InventoryAPP\bin\System.Web.Http.dll
+C:\Users\Sonal Verma\Desktop\inventoryy\InventoryAppServices\InventoryAPP\InventoryAPP\bin\System.Web.Http.WebHost.dll
+C:\Users\Sonal Verma\Desktop\inventoryy\InventoryAppServices\InventoryAPP\InventoryAPP\bin\EntityFramework.xml
+C:\Users\Sonal Verma\Desktop\inventoryy\InventoryAppServices\InventoryAPP\InventoryAPP\bin\EntityFramework.SqlServer.xml
+C:\Users\Sonal Verma\Desktop\inventoryy\InventoryAppServices\InventoryAPP\InventoryAPP\bin\Newtonsoft.Json.xml
+C:\Users\Sonal Verma\Desktop\inventoryy\InventoryAppServices\InventoryAPP\InventoryAPP\bin\System.Net.Http.Formatting.xml
+C:\Users\Sonal Verma\Desktop\inventoryy\InventoryAppServices\InventoryAPP\InventoryAPP\bin\System.Web.Http.xml
+C:\Users\Sonal Verma\Desktop\inventoryy\InventoryAppServices\InventoryAPP\InventoryAPP\bin\System.Web.Http.WebHost.xml
+C:\Users\Sonal Verma\Desktop\inventoryy\InventoryAppServices\InventoryAPP\InventoryAPP\obj\Debug\InventoryAPP.pdb
